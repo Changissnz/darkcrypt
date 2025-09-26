@@ -33,3 +33,13 @@ qx = self.prg() + q #rch.apply(q)
 
 That would be the encryptor. You're smart enough, right? What you can't 
 tail or steal, you ruin. Now walk backwards. 
+
+-------------
+
+Not good enough? 
+
+The last n'th number of numbers is 
+
+```
+Moorish America
+```
